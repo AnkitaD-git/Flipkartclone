@@ -1,0 +1,40 @@
+.navbar {
+  background-color: #2874f0;
+}
+
+.searchinput {
+  width: 40%;
+  height: 36px;
+  box-shadow: 5px 3px #5451514a;
+  padding-left: 18px;
+  margin-left: 5px !important;
+}
+
+.searchbutton {
+  height: 36px;
+  margin-right: 11px;
+  box-shadow: 5px 3px #5451514a;
+  color:#2874f0;
+}
+
+.loginbutton{
+  font-weight: 600;
+  color:#2874f0;
+}
+
+.cartitem{
+  border: 1px solid white;
+  background-color: red;
+  padding: 2px 7px;
+  border-radius: 500px;
+}
+
+.category li {
+  padding: 0rem 1.2rem;
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+  justify-content: center;
+}
+
+/* swipper */
